@@ -12,9 +12,7 @@
         <section class="form-panel card border-0 shadow-sm">
             <div class="card-body p-4 p-md-5">
                 <header class="page-heading text-center mb-4">
-                    <span class="heading-label">Student Portal</span>
                     <h1 class="display-heading">Create Your Account</h1>
-                    <p class="heading-description">Enter your student details to register.</p>
                 </header>
 
                 <form action="register_process.php" method="post" class="registration-form">
